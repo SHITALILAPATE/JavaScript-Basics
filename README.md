@@ -1,6 +1,3 @@
-
-
-markdown
 # JavaScript Basics
 
 ## Overview
